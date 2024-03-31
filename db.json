@@ -1,0 +1,79 @@
+{
+  "login": [{
+      "email": {
+        "id": "email",
+        "type": "email",
+        "label": "E-posta",
+        "placeholder": "E-posta Adresiniz",
+        "required": "true"
+
+      },
+      "password": {
+        "id": "password",
+        "type": "password",
+        "label": "Şifre",
+        "placeholder": "Şifrenizi giriniz",
+        "required": "true"
+
+      }
+    }
+
+
+  ],
+
+  "register": [{
+    "name": {
+      "id": "name",
+      "type": "text",
+      "label": "Adınız",
+      "placeholder": "Adınızı Girin"
+    },
+    "surname": {
+      "id": "surname",
+      "type": "text",
+      "label": "Soyadınız",
+      "placeholder": "Soyadınızı Girin"
+    },
+    "idNumber": {
+      "id": "idNumber",
+      " type": "text",
+      "label": "Kimlik Numarası",
+      "placeholder": "Kimlik Numaranız"
+
+    },
+    "birtDate": {
+      "id": "birthDate",
+      " type": "date",
+      " label": "Doğum Tarihi",
+      "placeholder": "Doğum Tarihiniz"
+    },
+    "email": {
+      "id": "email",
+      "type": "email",
+      "label": "E-Posta Adresiniz",
+      "placeholder": "E-Posta Adresinizi Girin"
+    },
+    "password": {
+      "id": "password",
+      "type": "password",
+      "label": "Şifreniz",
+      "placeholder": "Şifrenizi Girin"
+    },
+    "password2": {
+      "id": "password2",
+      "type": "password",
+      "label": "Şifrenizi Tekrar Girin",
+      "placeholder": "Şifrenizi Tekrar Girin"
+    },
+    "phone": {
+      " id": "phoneNumber",
+      "type": "tel",
+      " label": "Telefon Numarası",
+      "  placeholder": "Telefon Numaranız"
+    }
+
+
+  }]
+
+
+}
